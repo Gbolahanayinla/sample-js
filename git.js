@@ -1,2 +1,2 @@
 console.log("git.js");
-console.log("Version git")
+console.log("Version 1")
